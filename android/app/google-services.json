@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "350870682165",
+    "project_id": "yehia-threads",
+    "storage_bucket": "yehia-threads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350870682165:android:9e9a42d6f54c2e52c28f7c",
+        "android_client_info": {
+          "package_name": "com.example.threads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350870682165-trqkt2r1lufcbflkqqeip4eu50ultngv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.threads",
+            "certificate_hash": "2657b22d7f8dcfc458e05aad822f6fa515a7f058"
+          }
+        },
+        {
+          "client_id": "350870682165-utto43bp8q7r2he46vdja51nnmig6os1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKp89v6-co9H-XOYjB_07FJBthalxO8dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350870682165-utto43bp8q7r2he46vdja51nnmig6os1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350870682165-c2uu6svbih7ub9glto89klbamccttand.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.threads"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
